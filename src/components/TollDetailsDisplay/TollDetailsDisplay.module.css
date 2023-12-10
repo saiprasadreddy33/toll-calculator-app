@@ -1,0 +1,14 @@
+/* tollDetailsDisplay.module.css */
+
+.toll-details-container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+  
+  .toll-info {
+    margin-bottom: 15px;
+  }
+  
+  /* Add more styles as needed */
+  

@@ -1,0 +1,16 @@
+#tollCalculatorHeader {
+    background-color: #3498db;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  #appTitle {
+    font-size: 24px;
+    margin: 0;
+  }
+  
+  #appDescription {
+    font-size: 14px;
+  }
+  
